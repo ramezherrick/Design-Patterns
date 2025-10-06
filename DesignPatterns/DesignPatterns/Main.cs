@@ -9,7 +9,9 @@ namespace DesignPatterns
         {
             var service = new ServiceCollection();
 
-            service.RegisterBuilderPattern();
+            service
+                .RegisterBuilderPattern()
+                .RegisterFactoryPattern();
 
             return service.BuildServiceProvider();
         }

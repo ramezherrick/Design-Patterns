@@ -9,6 +9,7 @@
       "DesignPatterns/1.0.0": {
         "dependencies": {
           "BuilderPattern": "1.0.0",
+          "FactoryPattern": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "9.0.9"
         },
         "runtime": {
@@ -41,6 +42,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "FactoryPattern/1.0.0": {
+        "runtime": {
+          "FactoryPattern.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -65,6 +74,11 @@
       "hashPath": "microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512"
     },
     "BuilderPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FactoryPattern/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

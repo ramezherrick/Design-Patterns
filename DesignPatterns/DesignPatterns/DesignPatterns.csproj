@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BuilderPattern\BuilderPattern.csproj" />
+    <ProjectReference Include="..\FactoryPattern\FactoryPattern.csproj" />
   </ItemGroup>
 
 </Project>

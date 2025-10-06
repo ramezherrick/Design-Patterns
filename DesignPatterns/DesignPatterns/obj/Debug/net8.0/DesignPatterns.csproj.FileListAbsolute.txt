@@ -18,3 +18,6 @@ C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatter
 C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\obj\Debug\net8.0\ref\DesignPatterns.dll
 C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.sourcelink.json
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\bin\Debug\net8.0\FactoryPattern.dll
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\bin\Debug\net8.0\FactoryPattern.pdb

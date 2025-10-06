@@ -4,11 +4,11 @@ namespace BuilderPattern
 {
     public class HtmlElement : IHtmlElement
     {
-        public string Name { get; set; }
+        public string Name { get;}
 
-        public string Text { get; set; }
+        public string Text { get; }
 
-        public List<IHtmlElement> Elements { get; set; } = new List<IHtmlElement>();
+        public List<IHtmlElement> Elements { get; } = new List<IHtmlElement>();
 
         public HtmlElement(string name, string text)
         {

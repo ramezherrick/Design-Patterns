@@ -1,0 +1,12 @@
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\FactoryPattern\bin\Debug\net8.0\FactoryPattern.deps.json
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\FactoryPattern\bin\Debug\net8.0\FactoryPattern.dll
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\FactoryPattern\bin\Debug\net8.0\FactoryPattern.pdb
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\FactoryPattern\obj\Debug\net8.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\FactoryPattern\obj\Debug\net8.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\FactoryPattern\obj\Debug\net8.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\FactoryPattern\obj\Debug\net8.0\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\FactoryPattern\obj\Debug\net8.0\FactoryPattern.sourcelink.json
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\FactoryPattern\obj\Debug\net8.0\FactoryPattern.dll
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\FactoryPattern\obj\Debug\net8.0\refint\FactoryPattern.dll
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\FactoryPattern\obj\Debug\net8.0\FactoryPattern.pdb
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\FactoryPattern\obj\Debug\net8.0\ref\FactoryPattern.dll

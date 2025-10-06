@@ -3,10 +3,10 @@ namespace BuilderPattern
 {
     public interface IHtmlElement
     {
-        string Name { get; set; }
+        string Name { get; }
 
-        string Text { get; set; }
+        string Text { get; }
 
-        List<IHtmlElement> Elements { get; set; }
+        List<IHtmlElement> Elements { get; }
     }
 }
