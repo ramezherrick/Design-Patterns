@@ -1,7 +1,7 @@
 ﻿using BuilderPattern;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace DesignPatterns.Extensions
+namespace DesignPatternsRunner.Extensions
 {
     public static class BuilderPatternExtensions
     {

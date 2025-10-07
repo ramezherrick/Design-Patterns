@@ -1,7 +1,7 @@
-﻿using DesignPatterns.Extensions;
+﻿using DesignPatternsRunner.Extensions;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace DesignPatterns
+namespace DesignPatternsRunner
 {
     public static class Main
     {

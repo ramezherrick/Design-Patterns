@@ -1,0 +1,23 @@
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\bin\Debug\net8.0\• DesignPatternsRunner.exe
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\bin\Debug\net8.0\• DesignPatternsRunner.deps.json
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\bin\Debug\net8.0\• DesignPatternsRunner.runtimeconfig.json
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\bin\Debug\net8.0\• DesignPatternsRunner.dll
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\bin\Debug\net8.0\• DesignPatternsRunner.pdb
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\bin\Debug\net8.0\BuilderPattern.dll
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\bin\Debug\net8.0\FactoryPattern.dll
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\bin\Debug\net8.0\BuilderPattern.pdb
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\bin\Debug\net8.0\FactoryPattern.pdb
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\obj\Debug\net8.0\• DesignPatternsRunner.csproj.AssemblyReference.cache
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\obj\Debug\net8.0\• DesignPatternsRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\obj\Debug\net8.0\• DesignPatternsRunner.AssemblyInfoInputs.cache
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\obj\Debug\net8.0\• DesignPatternsRunner.AssemblyInfo.cs
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\obj\Debug\net8.0\• DesignPatternsRunner.csproj.CoreCompileInputs.cache
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\obj\Debug\net8.0\• DesignPatternsRunner.sourcelink.json
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\obj\Debug\net8.0\_ Design.46F6CC41.Up2Date
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\obj\Debug\net8.0\• DesignPatternsRunner.dll
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\obj\Debug\net8.0\refint\• DesignPatternsRunner.dll
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\obj\Debug\net8.0\• DesignPatternsRunner.pdb
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\obj\Debug\net8.0\• DesignPatternsRunner.genruntimeconfig.cache
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\DesignPatterns\obj\Debug\net8.0\ref\• DesignPatternsRunner.dll

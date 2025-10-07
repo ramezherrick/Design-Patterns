@@ -1,9 +1,7 @@
-﻿using FactoryPattern;
-using FactoryPattern.Interfaces;
-using FactoryPattern.Models;
+﻿using FactoryPattern.Factories;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace DesignPatterns.Extensions
+namespace DesignPatternsRunner.Extensions
 {
     public static class FactoryPatternExtentions
     {

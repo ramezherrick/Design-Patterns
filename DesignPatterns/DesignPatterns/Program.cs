@@ -1,8 +1,6 @@
 ﻿using BuilderPattern;
-using DesignPatterns;
-using FactoryPattern;
-using FactoryPattern.Interfaces;
-using FactoryPattern.Models;
+using DesignPatternsRunner;
+using FactoryPattern.Factories;
 using Microsoft.Extensions.DependencyInjection;
 
 var provider = Main.Start();
@@ -25,6 +23,6 @@ var spainPopulation = spainFactory.GetCapital().GetPopulation();
 var spainLanguage = spainFactory.GetLanguage().GetLanguage();
 
 Console.WriteLine(builderPatternHtml);
-Console.WriteLine($"Text color: {darkTheme.TextColor} - BackGroundColor: {darkTheme.BackGroundColor}");
+Console.WriteLine($"Dark Theme text color: {darkTheme.TextColor} - background color: {darkTheme.BackGroundColor}");
 Console.WriteLine($"England population: {englandPopulation} - England Language: {englandLanguage}");
 Console.WriteLine($"Spain population: {spainPopulation} - Spain Language: {spainLanguage}");

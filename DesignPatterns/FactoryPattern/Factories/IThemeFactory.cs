@@ -1,6 +1,6 @@
 ﻿using FactoryPattern.Interfaces;
 
-namespace FactoryPattern
+namespace FactoryPattern.Factories
 {
     public interface IThemeFactory
     {

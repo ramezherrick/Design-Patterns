@@ -1,18 +1,18 @@
 ﻿using FactoryPattern.Interfaces;
 using FactoryPattern.Models;
 
-namespace FactoryPattern
+namespace FactoryPattern.Factories
 {
-    public class SpainFactory : IAbstractFactory<SpainFactory>
+    public class EnglandFactory : IAbstractFactory<EnglandFactory>
     {
         public ICity GetCapital()
         {
-            return new Madrid();
+            return new London();
         }
 
         public ILanguage GetLanguage()
         {
-            return new Spanish();
+            return new English();
         }
     }
 }

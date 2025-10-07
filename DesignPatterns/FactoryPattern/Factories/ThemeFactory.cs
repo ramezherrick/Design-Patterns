@@ -1,7 +1,7 @@
 ﻿using FactoryPattern.Interfaces;
 using FactoryPattern.Models;
 
-namespace FactoryPattern
+namespace FactoryPattern.Factories
 {
     public class ThemeFactory : IThemeFactory
     {

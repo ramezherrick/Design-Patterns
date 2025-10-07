@@ -5,8 +5,8 @@ C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\BuilderPatte
 C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\BuilderPattern\obj\Debug\net8.0\BuilderPattern.AssemblyInfoInputs.cache
 C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\BuilderPattern\obj\Debug\net8.0\BuilderPattern.AssemblyInfo.cs
 C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\BuilderPattern\obj\Debug\net8.0\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\BuilderPattern\obj\Debug\net8.0\BuilderPattern.sourcelink.json
 C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\BuilderPattern\obj\Debug\net8.0\BuilderPattern.dll
 C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\BuilderPattern\obj\Debug\net8.0\refint\BuilderPattern.dll
 C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\BuilderPattern\obj\Debug\net8.0\BuilderPattern.pdb
 C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\BuilderPattern\obj\Debug\net8.0\ref\BuilderPattern.dll
-C:\Users\ramez.herrick\Self_learning\Design-Patterns\DesignPatterns\BuilderPattern\obj\Debug\net8.0\BuilderPattern.sourcelink.json
