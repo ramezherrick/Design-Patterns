@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ramez.herrick\\Self_learning\\Design-Patterns\\DesignPatterns\\DesignPatterns\\DesignPatternsRunner.csproj": {}
+    "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\DesignPatterns\\DesignPatternsRunner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ramez.herrick\\Self_learning\\Design-Patterns\\DesignPatterns\\BuilderPattern\\BuilderPattern.csproj": {
+    "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\BuilderPattern\\BuilderPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramez.herrick\\Self_learning\\Design-Patterns\\DesignPatterns\\BuilderPattern\\BuilderPattern.csproj",
+        "projectUniqueName": "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\BuilderPattern\\BuilderPattern.csproj",
         "projectName": "BuilderPattern",
-        "projectPath": "C:\\Users\\ramez.herrick\\Self_learning\\Design-Patterns\\DesignPatterns\\BuilderPattern\\BuilderPattern.csproj",
+        "projectPath": "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\BuilderPattern\\BuilderPattern.csproj",
         "packagesPath": "C:\\Users\\ramez.herrick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramez.herrick\\Self_learning\\Design-Patterns\\DesignPatterns\\BuilderPattern\\obj\\",
+        "outputPath": "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\BuilderPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\ramez.herrick\\Self_learning\\Design-Patterns\\DesignPatterns\\DesignPatterns\\DesignPatternsRunner.csproj": {
+    "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\DesignPatterns\\DesignPatternsRunner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramez.herrick\\Self_learning\\Design-Patterns\\DesignPatterns\\DesignPatterns\\DesignPatternsRunner.csproj",
+        "projectUniqueName": "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\DesignPatterns\\DesignPatternsRunner.csproj",
         "projectName": "DesignPatternsRunner",
-        "projectPath": "C:\\Users\\ramez.herrick\\Self_learning\\Design-Patterns\\DesignPatterns\\DesignPatterns\\DesignPatternsRunner.csproj",
+        "projectPath": "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\DesignPatterns\\DesignPatternsRunner.csproj",
         "packagesPath": "C:\\Users\\ramez.herrick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramez.herrick\\Self_learning\\Design-Patterns\\DesignPatterns\\DesignPatterns\\obj\\",
+        "outputPath": "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\DesignPatterns\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,11 +97,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ramez.herrick\\Self_learning\\Design-Patterns\\DesignPatterns\\BuilderPattern\\BuilderPattern.csproj": {
-                "projectPath": "C:\\Users\\ramez.herrick\\Self_learning\\Design-Patterns\\DesignPatterns\\BuilderPattern\\BuilderPattern.csproj"
+              "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\BuilderPattern\\BuilderPattern.csproj": {
+                "projectPath": "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\BuilderPattern\\BuilderPattern.csproj"
               },
-              "C:\\Users\\ramez.herrick\\Self_learning\\Design-Patterns\\DesignPatterns\\FactoryPattern\\FactoryPattern.csproj": {
-                "projectPath": "C:\\Users\\ramez.herrick\\Self_learning\\Design-Patterns\\DesignPatterns\\FactoryPattern\\FactoryPattern.csproj"
+              "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\FactoryPattern\\FactoryPattern.csproj": {
+                "projectPath": "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\FactoryPattern\\FactoryPattern.csproj"
               }
             }
           }
@@ -147,14 +147,14 @@
         }
       }
     },
-    "C:\\Users\\ramez.herrick\\Self_learning\\Design-Patterns\\DesignPatterns\\FactoryPattern\\FactoryPattern.csproj": {
+    "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\FactoryPattern\\FactoryPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramez.herrick\\Self_learning\\Design-Patterns\\DesignPatterns\\FactoryPattern\\FactoryPattern.csproj",
+        "projectUniqueName": "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\FactoryPattern\\FactoryPattern.csproj",
         "projectName": "FactoryPattern",
-        "projectPath": "C:\\Users\\ramez.herrick\\Self_learning\\Design-Patterns\\DesignPatterns\\FactoryPattern\\FactoryPattern.csproj",
+        "projectPath": "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\FactoryPattern\\FactoryPattern.csproj",
         "packagesPath": "C:\\Users\\ramez.herrick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramez.herrick\\Self_learning\\Design-Patterns\\DesignPatterns\\FactoryPattern\\obj\\",
+        "outputPath": "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\FactoryPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
