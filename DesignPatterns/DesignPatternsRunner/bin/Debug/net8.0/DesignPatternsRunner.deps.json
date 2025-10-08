@@ -10,7 +10,8 @@
         "dependencies": {
           "BuilderPattern": "1.0.0",
           "FactoryPattern": "1.0.0",
-          "Microsoft.Extensions.DependencyInjection": "9.0.9"
+          "Microsoft.Extensions.DependencyInjection": "9.0.9",
+          "PrototypePattern": "1.0.0"
         },
         "runtime": {
           "DesignPatternsRunner.dll": {}
@@ -50,6 +51,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "PrototypePattern/1.0.0": {
+        "runtime": {
+          "PrototypePattern.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -79,6 +88,11 @@
       "sha512": ""
     },
     "FactoryPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrototypePattern/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

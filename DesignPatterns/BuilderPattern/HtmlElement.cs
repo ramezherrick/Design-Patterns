@@ -4,7 +4,7 @@ namespace BuilderPattern
 {
     public class HtmlElement : IHtmlElement
     {
-        public string Name { get;}
+        public string Name { get; }
 
         public string Text { get; }
 

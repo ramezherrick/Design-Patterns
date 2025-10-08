@@ -11,7 +11,8 @@ namespace DesignPatternsRunner
 
             service
                 .RegisterBuilderPattern()
-                .RegisterFactoryPattern();
+                .RegisterFactoryPattern()
+                .RegisterPrototypePattern();
 
             return service.BuildServiceProvider();
         }

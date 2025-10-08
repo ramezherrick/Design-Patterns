@@ -56,6 +56,16 @@
         "runtime": {
           "bin/placeholder/FactoryPattern.dll": {}
         }
+      },
+      "PrototypePattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/PrototypePattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PrototypePattern.dll": {}
+        }
       }
     }
   },
@@ -129,13 +139,19 @@
       "type": "project",
       "path": "../FactoryPattern/FactoryPattern.csproj",
       "msbuildProject": "../FactoryPattern/FactoryPattern.csproj"
+    },
+    "PrototypePattern/1.0.0": {
+      "type": "project",
+      "path": "../PrototypePattern/PrototypePattern.csproj",
+      "msbuildProject": "../PrototypePattern/PrototypePattern.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "BuilderPattern >= 1.0.0",
       "FactoryPattern >= 1.0.0",
-      "Microsoft.Extensions.DependencyInjection >= 9.0.9"
+      "Microsoft.Extensions.DependencyInjection >= 9.0.9",
+      "PrototypePattern >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -175,6 +191,9 @@
             },
             "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\FactoryPattern\\FactoryPattern.csproj": {
               "projectPath": "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\FactoryPattern\\FactoryPattern.csproj"
+            },
+            "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\PrototypePattern\\PrototypePattern.csproj": {
+              "projectPath": "C:\\Users\\ramez.herrick\\Self_learning\\DesignPatterns\\PrototypePattern\\PrototypePattern.csproj"
             }
           }
         }
