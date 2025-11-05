@@ -69,3 +69,5 @@ C:\Users\ramez.herrick\Self_learning\DesignPatterns\DesignPatternsRunner\obj\Deb
 C:\Users\ramez.herrick\Self_learning\DesignPatterns\DesignPatternsRunner\obj\Debug\net8.0\ref\DesignPatternsRunner.dll
 C:\Users\ramez.herrick\Self_learning\DesignPatterns\DesignPatternsRunner\bin\Debug\net8.0\PrototypePattern.dll
 C:\Users\ramez.herrick\Self_learning\DesignPatterns\DesignPatternsRunner\bin\Debug\net8.0\PrototypePattern.pdb
+C:\Users\ramez.herrick\Self_learning\DesignPatterns\DesignPatternsRunner\bin\Debug\net8.0\SingletonPattern.dll
+C:\Users\ramez.herrick\Self_learning\DesignPatterns\DesignPatternsRunner\bin\Debug\net8.0\SingletonPattern.pdb

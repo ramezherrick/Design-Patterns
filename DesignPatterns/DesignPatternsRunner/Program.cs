@@ -2,26 +2,22 @@
 using DesignPatternsRunner;
 using FactoryPattern.Factories;
 using Microsoft.Extensions.DependencyInjection;
-using PrototypePattern;
 using PrototypePattern.Models;
+using SingletonPattern;
 
 var provider = Main.Start();
 
 // Builder Pattern
 var builder = provider.GetRequiredService<HtmlBuilder>();
-
 var builderPatternHtml = builder
     .AddChild("li", "hello")
     .AddChild("li", "world")
     .Build();
-
 Console.WriteLine(builderPatternHtml);
 
 // Factory Pattern
 var themeFactory = provider.GetRequiredService<IThemeFactory>();
-
 var darkTheme = themeFactory.CreateTheme(isDarkTheme: true);
-
 Console.WriteLine($"Dark Theme text color: {darkTheme.TextColor} - background color: {darkTheme.BackGroundColor}");
 
 
@@ -57,6 +53,18 @@ Console.WriteLine(
     $"Copied Employee: {string.Join(" ", employeeCopy.Names)}, " +
     $"Address: {employeeCopy.Address.HouseNumber} - {employeeCopy.Address.StreetName}," +
     $"Salary: {employeeCopy.Salary}");
+
+// Singleton Pattern
+var hostOne =  TableServers.GetTableServersInstance();
+var hostTwo = TableServers.GetTableServersInstance();
+
+for (int i = 1; i <= 5; i++)
+{
+    Console.WriteLine($"Host One - Request {i} assigned to table server: {hostOne.GetNextServer()}");
+    Console.WriteLine($"Host Two - Request {i} assigned to table server: {hostTwo.GetNextServer()}");
+}
+
+
 
 
 
